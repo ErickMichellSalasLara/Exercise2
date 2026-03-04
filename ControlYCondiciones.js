@@ -5,7 +5,7 @@
 let arreglo = [];
 
 for(Contador = 0; Contador <= 10; Contador++){
-    if(Contador % 2 === 0){
+    if(Contador % 2 === 1){
         arreglo.push(Contador);
     }
 }
